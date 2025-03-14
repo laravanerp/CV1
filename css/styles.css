@@ -27,6 +27,9 @@ body {
 .resume-aside {
 	background-color: #B2B2B2;
 }
+.language-progress {
+    background-color: #59CAFE!important; /* Replace #FFD700 with your desired color */
+}
 
 /* Styles for lists in the document */
 
